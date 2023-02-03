@@ -1,1 +1,3 @@
 Hello feature_conflict_1
+
+same file(feature_conflict_1.txt) present in master branch changes made by feature_conflict_2 
